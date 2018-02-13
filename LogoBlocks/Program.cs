@@ -15,6 +15,9 @@ namespace LogoBlocks
             // create user interface for the inputs below
             // learn github and set it up for version control
             // 1st get this on github
+
+            // test comment in main
+
             char myDeliminator = '|';
             string mySourceFolder = @"../../../TestMove";
             string myDestFolder = @"../../../TestOutput";
